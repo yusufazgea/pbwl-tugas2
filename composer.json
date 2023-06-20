@@ -1,0 +1,19 @@
+{
+    "name": "yusufazgea/pbwl-tugas2",
+    "description": "Tugas 2 SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yusufazgea",
+            "email": "yusufazgea@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
